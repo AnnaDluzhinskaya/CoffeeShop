@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.AddProduct.resources
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.CoffeeShop.resources
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.AddRecipe.resources
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\bin\Debug\Database.mdf
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\bin\Debug\Database_log.ldf
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.AddIngredient.resources
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.AddOrder.resources
+\\Mac\Home\Desktop\Стажеровка\FirstApp\FirstApp\obj\Debug\FirstApp.Statistics.resources
